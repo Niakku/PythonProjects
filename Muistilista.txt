@@ -1,0 +1,27 @@
+
+
+Muistilista GitHubin käytöstä
+
+- Tee uusi tiedosto
+	- touch filename.filetype
+
+- Avaa tiedosto tekstieditorissa
+	- code filename.filetype (avaa Visual Studio Codessa)
+
+- GitHubin status
+	- git status
+	- punainen tarkoittaa, että tiedoston commit puuttuu
+
+- Tiedoston lisääminen
+	- git add filename.filetype
+	- punainen väri pitäisi vaihtua vihreään
+
+- Commit
+	- git commit -m "Kuvaus tiedostosta" filename.filetype
+
+- Push 
+	- git push
+	- Anna kirjautumistiedot
+
+- Doned
+	- Good Job
