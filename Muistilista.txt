@@ -25,3 +25,16 @@ Muistilista GitHubin käytöstä
 
 - Doned
 	- Good Job
+
+
+
+
+
+
+Lisää komentoja
+
+- git branch
+	- näyttää missä branch:issä olet tällä hetkellä (*) ja myös muiden branch:ien nimet
+
+- git checkout branchname
+	- vaihtaa branchin 
