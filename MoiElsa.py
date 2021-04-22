@@ -1,1 +1,0 @@
-print("Moi Elsa, miten menee? Toivottavasti sinulle kuuluu hyvää.")
